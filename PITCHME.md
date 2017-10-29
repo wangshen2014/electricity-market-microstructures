@@ -1,4 +1,4 @@
-@title
+@title[Introduction]
 ### Designing the future of electricity auctions
 
 ---
