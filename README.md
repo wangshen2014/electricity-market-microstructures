@@ -1,3 +1,5 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/KAPSARC/electricity-market-microstructures/master)
+
 # electricity-market-microstructures
 Working notes providing motitvation, and a high-level description of, an embedded domain specific language (EDSL) for modeling market microstructure of electricity markets.
 
