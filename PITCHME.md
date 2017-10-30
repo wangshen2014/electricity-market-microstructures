@@ -22,3 +22,5 @@ Centralized control of an increasingly decentralized electricity grid will event
 +++
 
 ### ...decentralized control mechanisms...
+
+Auctions and the blockchain!
